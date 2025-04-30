@@ -4,7 +4,7 @@
 
 **Language:** JS
 
-**About**: ptactice coding skills 
+**About**: Find my practice coding skills in [index.js]() file
 
 ***
 
