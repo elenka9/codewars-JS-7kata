@@ -1,5 +1,5 @@
 # [Codewars. Java Script training](https://github.com/elenka9/codewars-JS-7kata/blob/main/index.js)
-☝️ ckick
+☝️ click
 ## Coding 
 
 **Language:** JS
